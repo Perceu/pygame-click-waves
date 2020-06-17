@@ -1,5 +1,5 @@
-# pygame-doom-fire
-implementação do algoritimo do doom em pygame.
+# pygame-click-waves
+implementação simples de ondas discipando com o click
 
 ## install 
 ```
